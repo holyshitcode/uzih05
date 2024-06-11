@@ -14,7 +14,7 @@
 
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuzihh%2F&count_bg=%236667AB&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuzih05%2F&count_bg=%236667AB&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 </div>
@@ -28,7 +28,7 @@
 <div align="center">
   <br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzihh&show_icons=true&theme=discord_old_blurple)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=discord_old_blurple)
   
 </div>
 
